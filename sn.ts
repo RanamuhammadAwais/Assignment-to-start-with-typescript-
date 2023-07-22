@@ -30,3 +30,37 @@ console.log(famous_person+message);
 var ak : String="\tRana Awais'\n"
 
 console.log(ak)
+
+//Then print the name after striping the white spaces.
+
+let aj = "rana Awais"
+console.log(aj)
+
+/*Number Eight: Write addition, subtraction, multiplication,
+and division operations that each result in the number 8.
+Be sure to enclose your operations in print statements to see the results*/
+
+console.log(5+3);
+console.log(10-2);
+console.log(4*2);
+console.log(32/4);
+
+
+/* Favorite Number: Store your favorite number in a variable. 
+Then, using that variable, create a message that reveals your
+ favorite number. Print that message.*/
+ let a1=16
+ console.log("my favourite number is",a1)
+
+
+ /* Adding Comments: Choose two of the programs you’ve written, 
+ and add at least one comment to each*/
+
+ //This program is showing my favourite number
+ let a2=16
+ console.log("my favourite number is",a1)
+ //This program is hsowing my name
+ let a3 = "rana Awais"
+console.log(aj)
+
+/* */
